@@ -37,6 +37,3 @@ The project leverages Python for data generation, SQL for database management, a
 ![Dashboard](https://github.com/Sankarshanpower8i/Doctor-Fee-Prediction/assets/133600711/9cc24b48-5747-435c-9adf-790eb8239c99)
 
 The project aims to provide stakeholders with insights derived from synthetic data analysis. The generated insights include sales trends, product performance metrics, and customer profiles, facilitating informed business decisions.
-
-The project will be presented to Raksha Pipes' stakeholders, showcasing the analysis performed on synthetic data to glean valuable insights into the company's operations and performance.
-
