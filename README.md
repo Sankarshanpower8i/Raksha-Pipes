@@ -1,8 +1,12 @@
 # Raksha Pipes Data Analysis
+![download](https://github.com/Sankarshanpower8i/Doctor-Fee-Prediction/assets/133600711/61b7a72a-7ea1-4e11-a9ab-5f551682b69a)
 
 This project involves analyzing data related to Raksha Pipes, a company specializing in the production and distribution of pipes and plumbing products. The dataset includes information about customers, products, sales, employees, exports, manufacturing units, and warehouses. The goal is to gain insights into sales trends, product performance, and customer profiles to support business decision-making.
 
+
 ## Overview
+![download](https://github.com/Sankarshanpower8i/Doctor-Fee-Prediction/assets/133600711/1d4080f1-e3f2-46b4-8efb-14e692b3ddfc)
+
 
 The project utilizes Python for data generation and SQL for database management. The generated data is stored in a MySQL database, and analysis is conducted using SQL queries. Power BI is used to create an interactive dashboard that visualizes key business metrics and insights.
 
@@ -19,6 +23,8 @@ The project utilizes Python for data generation and SQL for database management.
 5. **Power BI Dashboard**: An interactive dashboard is created using Power BI to visualize the analyzed data. The dashboard includes visualizations such as bar charts, line charts, pie charts, donut charts, stacked column charts, scatter plots, maps, and gauges to represent sales trends, product categories, customer profiles, and more.
 
 ## Repository Structure
+![images](https://github.com/Sankarshanpower8i/Doctor-Fee-Prediction/assets/133600711/917485e7-5bdc-49a5-9075-fe727825c407)
+
 
 - **Python Scripts**: Contains Python scripts for data generation and insertion.
 - **SQL Scripts**: Contains SQL scripts for database creation and data analysis.
@@ -35,6 +41,9 @@ The project utilizes Python for data generation and SQL for database management.
 5. **Power BI Dashboard**: Open the Power BI file to explore the interactive dashboard and visualize the data.
 
 ## Evaluation Criteria
+
+![Sankarshan_Raksha_Pipes_Dashboard_pages-to-jpg-0001](https://github.com/Sankarshanpower8i/Doctor-Fee-Prediction/assets/133600711/9cc24b48-5747-435c-9adf-790eb8239c99)
+
 
 The project will be evaluated based on clarity, accuracy, insightfulness, and presentation quality. The README file, documentation, and presentation should effectively convey the project's objectives, methodology, findings, and usage guidelines.
 
