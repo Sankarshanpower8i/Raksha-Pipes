@@ -159,6 +159,12 @@ The project aims to provide stakeholders with insights derived from synthetic da
        - Open the Power BI dashboard file `raksha_dashboard.pbix` to visualize the data and explore the dashboard.
 
       
+ ## Presentation
+
+The `presentation/` folder contains the video recording of the project presentation, explaining each step in detail. You can also access the presentation directly from Google Drive by clicking [here](https://drive.google.com/file/d/1F0RNNOzNfB53mjKGP84Bd7VsDozvVkGs/view?usp=sharing).
+
+
+      
   # **Screenshots**
   
 ### **Database Design**
